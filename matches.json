@@ -1,16 +1,16 @@
 {
   "yesterday": [
-    {
-      "home": "الوداد",
-      "away": "الرجاء",
-      "time": "20:00",
-      "score": "2 - 1",
-      "channel": "beIN SPORTS 1 HD",
-      "commentator": "أحمد الطيب",
-      "thumbnail": "https://i.imgur.com/3N1FqjM.jpeg",
-      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+ {
+      "homeTeam": "رايو فاييكانو",
+      "awayTeam": "ريال بيتيس",
+      "homeLogo": "https://i.postimg.cc/7ZQDfgSX/t-l-chargement-1.png",
+      "awayLogo": "https://i.postimg.cc/RFpwYptK/t-l-chargement-2.png",
+      "score": "0 - 0",
+      "time": "مباشر الآن",
+      "channel": "beIN SPORTS 4 HD",
+      "commentator": "أحمد البلوشي",
+      "url": "https://example.com/stream1.m3u8"
     }
-  ],
   "today": [
        {
       "homeTeam": "باريس سان جيرمان",
@@ -26,14 +26,15 @@
   ],
   "tomorrow": [
     {
-      "home": "المغرب",
-      "away": "الجزائر",
-      "time": "19:00",
-      "score": "",
-      "channel": "beIN SPORTS 1 HD",
-      "commentator": "حفيظ دراجي",
-      "thumbnail": "https://i.imgur.com/NH1mrwF.jpeg",
-      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+      "homeTeam": "باريس  ",
+      "awayTeam": "الميريا",
+      "homeLogo": "https://i.postimg.cc/7ZQDfgSX/t-l-chargement-1.png",
+      "awayLogo": "https://i.postimg.cc/RFpwYptK/t-l-chargement-2.png",
+      "score": "0 - 0",
+      "time": "مباشر الآن",
+      "channel": "beIN SPORTS 4 HD",
+      "commentator": "أحمد البلوشي",
+      "url": "https://example.com/stream1.m3u8"
     }
   ]
 }
