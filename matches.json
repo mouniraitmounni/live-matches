@@ -1,41 +1,41 @@
 {
   "yesterday": [
     {
-      "homeTeam": "رايو فاييكانو",
-      "awayTeam": "ريال بيتيس",
+      "homeTeam": "الوداد",
+      "awayTeam": "الرجاء",
       "homeLogo": "https://i.postimg.cc/7ZQDfgSX/t-l-chargement-1.png",
       "awayLogo": "https://i.postimg.cc/RFpwYptK/t-l-chargement-2.png",
-      "score": "0 - 0",
-      "time": "مباشر الآن",
-      "channel": "beIN SPORTS 4 HD",
-      "commentator": "أحمد البلوشي",
-      "url": "https://example.com/stream1.m3u8"
+      "score": "2 - 1",
+      "startTime": "2025-04-04 15:55:02",
+      "channel": "beIN SPORTS 1 HD",
+      "commentator": "أحمد الطيب",
+      "url": "https://example.com/live1.m3u8"
     }
   ],
   "today": [
     {
-      "homeTeam": "باريس سان جيرمان",
-      "awayTeam": "أنجيه",
+      "homeTeam": "برشلونة",
+      "awayTeam": "ريال مدريد",
       "homeLogo": "https://i.postimg.cc/7ZQDfgSX/t-l-chargement-1.png",
       "awayLogo": "https://i.postimg.cc/RFpwYptK/t-l-chargement-2.png",
       "score": "0 - 0",
-      "time": "مباشر الآن",
-      "channel": "beIN SPORTS 4 HD",
-      "commentator": "أحمد البلوشي",
-      "url": "https://example.com/stream1.m3u8"
+      "startTime": "2025-04-05 18:05:02",
+      "channel": "beIN SPORTS 2 HD",
+      "commentator": "رؤوف خليف",
+      "url": "https://example.com/live2.m3u8"
     }
   ],
   "tomorrow": [
     {
-      "homeTeam": "باريس  ",
-      "awayTeam": "الميريا",
+      "homeTeam": "مانشستر سيتي",
+      "awayTeam": "بايرن ميونيخ",
       "homeLogo": "https://i.postimg.cc/7ZQDfgSX/t-l-chargement-1.png",
       "awayLogo": "https://i.postimg.cc/RFpwYptK/t-l-chargement-2.png",
       "score": "0 - 0",
-      "time": "مباشر الآن",
-      "channel": "beIN SPORTS 4 HD",
-      "commentator": "أحمد البلوشي",
-      "url": "https://example.com/stream1.m3u8"
+      "startTime": "2025-04-06 20:55:02",
+      "channel": "beIN SPORTS 3 HD",
+      "commentator": "حفيظ دراجي",
+      "url": "https://example.com/live3.m3u8"
     }
   ]
 }
