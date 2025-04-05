@@ -3,49 +3,18 @@
     "match": "الوداد × الرجاء",
     "time": "20:00",
     "thumbnail": "https://i.imgur.com/abc123.jpg",
-    "url": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
+    "url": "http://myrbunq.smart-tv.xyz:80/Live/3133480476/6975838018/10934.m3u8"
+  },
+  {
+    "match": "الريال × برشلونة",
+    "time": "22:00",
+    "thumbnail": "https://i.imgur.com/HhBdGFn.jpeg",
+    "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+  },
+  {
+    "match": "المغرب × الجزائر",
+    "time": "18:30",
+    "thumbnail": "https://i.imgur.com/3N1FqjM.jpeg",
+    "url": "https://moiptv.xyz/hls/teststream.m3u8"
   }
-    {
-    "match": "الوداد × الرجاء",
-    "time": "20:00",
-    "thumbnail": "https://i.imgur.com/abc123.jpg",
-    "url": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
-  }
-    {
-    "match": "الوداد × الرجاء",
-    "time": "20:00",
-    "thumbnail": "https://i.imgur.com/abc123.jpg",
-    "url": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
-  }
-    {
-    "match": "الوداد × الرجاء",
-    "time": "20:00",
-    "thumbnail": "https://i.imgur.com/abc123.jpg",
-    "url": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
-  }
-    {
-    "match": "الوداد × الرجاء",
-    "time": "20:00",
-    "thumbnail": "https://i.imgur.com/abc123.jpg",
-    "url": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
-  }
-    {
-    "match": "الوداد × الرجاء",
-    "time": "20:00",
-    "thumbnail": "https://i.imgur.com/abc123.jpg",
-    "url": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
-  }
-    {
-    "match": "الوداد × الرجاء",
-    "time": "20:00",
-    "thumbnail": "https://i.imgur.com/abc123.jpg",
-    "url": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
-  }
-    {
-    "match": "الوداد × الرجاء",
-    "time": "20:00",
-    "thumbnail": "https://i.imgur.com/abc123.jpg",
-    "url": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
-  }
-  
 ]
