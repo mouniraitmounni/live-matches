@@ -1,6 +1,6 @@
 {
   "yesterday": [
- {
+    {
       "homeTeam": "رايو فاييكانو",
       "awayTeam": "ريال بيتيس",
       "homeLogo": "https://i.postimg.cc/7ZQDfgSX/t-l-chargement-1.png",
@@ -11,8 +11,9 @@
       "commentator": "أحمد البلوشي",
       "url": "https://example.com/stream1.m3u8"
     }
+  ],
   "today": [
-       {
+    {
       "homeTeam": "باريس سان جيرمان",
       "awayTeam": "أنجيه",
       "homeLogo": "https://i.postimg.cc/7ZQDfgSX/t-l-chargement-1.png",
