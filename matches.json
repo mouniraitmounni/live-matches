@@ -1,41 +1,32 @@
-{
-  "yesterday": [
-    {
-      "homeTeam": "الوداد",
-      "awayTeam": "الرجاء",
-      "homeLogo": "https://i.postimg.cc/7ZQDfgSX/t-l-chargement-1.png",
-      "awayLogo": "https://i.postimg.cc/RFpwYptK/t-l-chargement-2.png",
-      "score": "2 - 1",
-      "startTime": "2025-04-04 15:55:02",
-      "channel": "beIN SPORTS 1 HD",
-      "commentator": "أحمد الطيب",
-      "url": "https://example.com/live1.m3u8"
-    }
-  ],
-  "today": [
-    {
-      "homeTeam": "برشلونة",
-      "awayTeam": "ريال مدريد",
-      "homeLogo": "https://i.postimg.cc/7ZQDfgSX/t-l-chargement-1.png",
-      "awayLogo": "https://i.postimg.cc/RFpwYptK/t-l-chargement-2.png",
-      "score": "0 - 0",
-      "startTime": "2025-04-05 18:05:02",
-      "channel": "beIN SPORTS 2 HD",
-      "commentator": "رؤوف خليف",
-      "url": "https://example.com/live2.m3u8"
-    }
-  ],
-  "tomorrow": [
-    {
-      "homeTeam": "مانشستر سيتي",
-      "awayTeam": "بايرن ميونيخ",
-      "homeLogo": "https://i.postimg.cc/7ZQDfgSX/t-l-chargement-1.png",
-      "awayLogo": "https://i.postimg.cc/RFpwYptK/t-l-chargement-2.png",
-      "score": "0 - 0",
-      "startTime": "2025-04-06 20:55:02",
-      "channel": "beIN SPORTS 3 HD",
-      "commentator": "حفيظ دراجي",
-      "url": "https://example.com/live3.m3u8"
-    }
-  ]
-}
+[
+  {
+    "team1": "برشلونة",
+    "team2": "فالنسيا",
+    "time": "2025-04-05 19:00:00",
+    "channel": "Bein Sports 1",
+    "commentator": "عصام الشوالي",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/7/75/Valenciacf.svg",
+    "liveUrl": "https://example.com/live1.m3u8"
+  },
+  {
+    "team1": "الوداد",
+    "team2": "الرجاء",
+    "time": "2025-04-06 21:00:00",
+    "channel": "Bein Sports 2",
+    "commentator": "حفيظ دراجي",
+    "logo1": "https://upload.wikimedia.org/wikipedia/ar/thumb/4/45/Wydad_AC_logo.png/1200px-Wydad_AC_logo.png",
+    "logo2": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/0c/Raja_CA_logo.png/1200px-Raja_CA_logo.png",
+    "liveUrl": "https://example.com/live2.m3u8"
+  },
+  {
+    "team1": "ريال مدريد",
+    "team2": "أتليتيكو مدريد",
+    "time": "2025-04-07 22:30:00",
+    "channel": "Bein Sports 3",
+    "commentator": "رؤوف خليف",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
+    "liveUrl": "https://example.com/live3.m3u8"
+  }
+]
