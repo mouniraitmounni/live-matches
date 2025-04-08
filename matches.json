@@ -17,7 +17,7 @@
     "commentator": "عصام الشوالي",
     "logo1": "https://i.postimg.cc/0QS0KKkT/Raja-Casablanca-Logo.png",
     "logo2": "https://i.postimg.cc/HnC4wWjV/Wydad-AC-crest-2022-svg.png",
-    "liveUrl": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
+    "liveUrl": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/27768.m3u8"
   },
     {
     "team1": "برشلونة",
@@ -27,7 +27,7 @@
     "commentator": "عصام الشوالي",
     "logo1": "https://i.postimg.cc/0QS0KKkT/Raja-Casablanca-Logo.png",
     "logo2": "https://i.postimg.cc/HnC4wWjV/Wydad-AC-crest-2022-svg.png",
-   "liveUrl": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
+  "liveUrl": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/27768.m3u8"
   },
     {
     "team1": "برشلونة",
@@ -35,36 +35,6 @@
     "time": "2025-04-08 12:00:00",
     "channel": "Bein Sports 1",
     "commentator": "عصام الشوالي",
-    "logo1": "https://i.postimg.cc/0QS0KKkT/Raja-Casablanca-Logo.png",
-    "logo2": "https://i.postimg.cc/HnC4wWjV/Wydad-AC-crest-2022-svg.png",
-   "liveUrl": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
-  },
-    {
-    "team1": "برشلونة",
-    "team2": "فالنسيا",
-    "time": "2025-04-08 12:00:00",
-    "channel": "Bein Sports 1",
-    "commentator": "عصام الشوالي",
-    "logo1": "https://i.postimg.cc/0QS0KKkT/Raja-Casablanca-Logo.png",
-    "logo2": "https://i.postimg.cc/HnC4wWjV/Wydad-AC-crest-2022-svg.png",
-    "liveUrl": "https://example.com/live1.m3u8"
-  },
-    {
-    "team1": "برشلونة",
-    "team2": "فالنسيا",
-    "time": "2025-04-08 12:00:00",
-    "channel": "Bein Sports 1",
-    "commentator": "عصام الشوالي",
-    "logo1": "https://i.postimg.cc/0QS0KKkT/Raja-Casablanca-Logo.png",
-    "logo2": "https://i.postimg.cc/HnC4wWjV/Wydad-AC-crest-2022-svg.png",
-   "liveUrl": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
-  },
-  {
-    "team1": "الوداد",
-    "team2": "الرجاء",
-    "time": "2025-04-07 21:00:00",
-    "channel": "Bein Sports 2",
-    "commentator": "حفيظ دراجي",
     "logo1": "https://i.postimg.cc/0QS0KKkT/Raja-Casablanca-Logo.png",
     "logo2": "https://i.postimg.cc/HnC4wWjV/Wydad-AC-crest-2022-svg.png",
    "liveUrl": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/10934.m3u8"
