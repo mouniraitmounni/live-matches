@@ -1,20 +1,32 @@
 [
   {
     "name": "Bein Sports 1",
-    "logo": "https://example.com/bein1.png",
-    "url": "http://example.com/bein1.m3u8",
-    "category": "Bein Sports"
+    "logo": "https://i.postimg.cc/rmnCPgM3/unnamed.png",
+    "url": "http://example.com/bein1.m3u8"
   },
   {
     "name": "Bein Sports 2",
-    "logo": "https://example.com/bein2.png",
-    "url": "http://example.com/bein2.m3u8",
-    "category": "Bein Sports"
+    "logo": "https://i.postimg.cc/rmnCPgM3/unnamed.png",
+    "url": "http://example.com/bein2.m3u8"
   },
   {
     "name": "SSC Sports 1",
-    "logo": "https://example.com/ssc1.png",
-    "url": "http://example.com/ssc1.m3u8",
-    "category": "SSC"
+    "logo": "https://i.postimg.cc/rmnCPgM3/unnamed.png",
+    "url": "http://example.com/ssc1.m3u8"
+  },
+  {
+    "name": "Al Kass 1",
+    "logo": "https://i.postimg.cc/rmnCPgM3/unnamed.png",
+    "url": "http://example.com/kass1.m3u8"
+  },
+  {
+    "name": "Bein Sports Premium",
+    "logo": "https://i.postimg.cc/rmnCPgM3/unnamed.png",
+    "url": "http://example.com/beinpremium.m3u8"
+  },
+  {
+    "name": "Sky Sports",
+    "logo": "https://i.postimg.cc/rmnCPgM3/unnamed.png",
+    "url": "http://example.com/skysports.m3u8"
   }
 ]
