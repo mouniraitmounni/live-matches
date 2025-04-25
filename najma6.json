@@ -28,6 +28,66 @@
     "logo1": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
     "logo2": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
     "liveUrl": "https://yourstreamlink.com/city-vs-liverpool"
+  },
+  {
+    "team1": "برشلونة",
+    "team2": "ريال مدريد",
+    "time": "2025-04-19 22:00:00",
+    "channel": "Bein Sports 1",
+    "commentator": "عصام الشوالي",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+    "liveUrl": "https://yourstreamlink.com/barca-vs-real"
+  },
+  {
+    "team1": "مانشستر سيتي",
+    "team2": "ليفربول",
+    "time": "2025-04-20 18:45:00",
+    "channel": "Bein Sports 2",
+    "commentator": "رؤوف خليف",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "liveUrl": "https://yourstreamlink.com/city-vs-liverpool"
+  },
+  {
+    "team1": "برشلونة",
+    "team2": "ريال مدريد",
+    "time": "2025-04-19 22:00:00",
+    "channel": "Bein Sports 1",
+    "commentator": "عصام الشوالي",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+    "liveUrl": "https://yourstreamlink.com/barca-vs-real"
+  },
+  {
+    "team1": "مانشستر سيتي",
+    "team2": "ليفربول",
+    "time": "2025-04-20 18:45:00",
+    "channel": "Bein Sports 2",
+    "commentator": "رؤوف خليف",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "liveUrl": "https://yourstreamlink.com/city-vs-liverpool"
+  },
+  {
+    "team1": "برشلونة",
+    "team2": "ريال مدريد",
+    "time": "2025-04-19 22:00:00",
+    "channel": "Bein Sports 1",
+    "commentator": "عصام الشوالي",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+    "liveUrl": "https://yourstreamlink.com/barca-vs-real"
+  },
+  {
+    "team1": "مانشستر سيتي",
+    "team2": "ليفربول",
+    "time": "2025-04-20 18:45:00",
+    "channel": "Bein Sports 2",
+    "commentator": "رؤوف خليف",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "liveUrl": "https://yourstreamlink.com/city-vs-liverpool"
   }
 
 ]
