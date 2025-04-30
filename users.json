@@ -1,12 +1,9 @@
 [
   {
-    "username": "mounir",
-    "code": "123456",
-    "expiry": "2025-04-01"
-  },
-  {
     "username": "ahmed",
-    "code": "XYZ455",
-    "expiry": "2025-04-10"
+    "code": "XYZ123",
+    "expiry": "2025-06-01",
+    "used": false,         // أول مرة فقط
+    "deviceId": null       // يتم ملؤه بعد أول استخدام
   }
 ]
