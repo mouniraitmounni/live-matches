@@ -4,6 +4,6 @@
     "code": "XYZ123",
     "expiry": "2025-06-01",
     "used": false,
-    "deviceId": 
+    "deviceId": null
   }
 ]
