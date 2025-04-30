@@ -4,5 +4,11 @@
     "code": "XYZ123",
     "expiry": "2025-06-01",
     "used": false,
+    "deviceId": null  },
+   {
+    "username": "mounir",
+    "code": "XYZ123",
+    "expiry": "2025-06-01",
+    "used": true,
     "deviceId": null  }
 ]
