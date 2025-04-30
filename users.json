@@ -3,7 +3,7 @@
     "username": "ahmed",
     "code": "XYZ123",
     "expiry": "2025-06-01",
-    "used": false,         // أول مرة فقط
-    "deviceId": null       // يتم ملؤه بعد أول استخدام
+    "used": false,
+    "deviceId": null
   }
 ]
