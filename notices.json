@@ -5,7 +5,7 @@
     "message": "اضغط لمشاهدتها الآن",
     "type": "info",
     "action": "navigate",
-    "target": "NajmaScreen",
+    "target": "Najma",
     "time": "2025-05-21T16:30:00"
   },
   {
