@@ -25,5 +25,14 @@
     "action": "navigate",
     "target": "myaccount",
     "time": "2025-05-21T14:00:00"
-  }
+  },
+  {
+  "id": "5",
+  "title": "صفقة جديدة لريال مدريد",
+  "message": "أكدت الصحف الإسبانية أن ريال مدريد اقترب من ضم نجم جديد.",
+  "type": "news",
+  "time": "2025-05-21T14:30:00",
+  "action": "navigate",
+  "target": "newsdetails"
+}
 ]
