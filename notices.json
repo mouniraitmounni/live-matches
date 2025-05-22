@@ -1,13 +1,13 @@
 [
   {
-    "id": "notice11",
+    "id": "notice1",
     "title": "تمت إضافة قنوات جديدة",
     "message": "اكتشف القنوات الآن!",
     "type": "success",
     "time": "2025-05-21T16:00:00"
   },
   {
-    "id": "notice11",
+    "id": "notice2",
     "title": "مباراة اليوم",
     "message": "ريال مدريد vs برشلونة الساعة 21:00",
     "type": "info",
