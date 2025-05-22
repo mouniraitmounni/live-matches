@@ -27,12 +27,12 @@
     "time": "2025-05-21T14:00:00"
   },
   {
-  "id": "13",
-  "title": "تحديث حول إصابة مبابي",
-  "message": "مبابي قد يعود قريباً...",
+  "id": "1",
+  "title": "تحديث جديد متوفر!",
+  "message": "تم إصدار نسخة جديدة من التطبيق.",
   "type": "news",
-  "action": "open_news",
-  "target": "mbappe_update"  
-  "time": "2025-05-21T14:00:00"
-  }
+  "time": "2025-05-22 10:00:00",
+  "action": "navigate",
+  "target": "subscribe"
+}
 ]
