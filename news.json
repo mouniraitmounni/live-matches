@@ -2,19 +2,10 @@
   {
     "id": "1",
     "title": "تحديث جديد حول إصابة مبابي",
-    "description": "فيدر فاد يريح لإصطان وبقطعجي إصابة مبابي عمليات المحدود.",
-    "image": "https://example.com/image1.jpg",
+    "description": "فيدر فاد يبرخ للطسان و بقطاجي إصابة مبابي عمابات المحدود.",
+    "image": "https://link/to/image.jpg",
     "date": "23 أبريل",
     "label": "جديدة",
-    "labelColor": "#4CAF50"
-  },
-  {
-    "id": "2",
-    "title": "إضافة ثلاث مباريات إلى الجدول",
-    "description": "إطاطنة ادث نات مرييات إلى الجدول",
-    "image": "https://example.com/image2.jpg",
-    "date": "أمس",
-    "label": "مباريات مضافة",
-    "labelColor": "#2196F3"
+    "labelColor": "#3A3A3C"
   }
 ]
