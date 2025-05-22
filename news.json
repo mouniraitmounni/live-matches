@@ -2,28 +2,19 @@
   {
     "id": "1",
     "title": "تحديث جديد حول إصابة مبابي",
-    "description": "فادر فاد يبرخ لإلطان وبقطعجي إصابة مبابي عمابات المحدود.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kylian_Mbapp%C3%A9_2019.jpg/440px-Kylian_Mbapp%C3%A9_2019.jpg",
-    "date": "2025-04-23",
-    "label": "جديد",
+    "description": "فيدر فاد يريح لإصطان وبقطعجي إصابة مبابي عمليات المحدود.",
+    "image": "https://example.com/image1.jpg",
+    "date": "23 أبريل",
+    "label": "جديدة",
     "labelColor": "#4CAF50"
   },
   {
     "id": "2",
-    "title": "قناة رياضية جديدة",
-    "description": "الطلاق القافية حول جدعة لا تصلمهم اطاق.",
-    "image": "https://i.imgur.com/MtLkO2j.png",
-    "date": "2025-04-24",
-    "label": "قناة جديدة",
-    "labelColor": "#3F51B5"
-  },
-  {
-    "id": "3",
     "title": "إضافة ثلاث مباريات إلى الجدول",
-    "description": "إطمانة ادت نات مريبات إلى الجدول.",
-    "image": "https://i.imgur.com/G5pzF3B.png",
-    "date": "2025-04-22",
+    "description": "إطاطنة ادث نات مرييات إلى الجدول",
+    "image": "https://example.com/image2.jpg",
+    "date": "أمس",
     "label": "مباريات مضافة",
-    "labelColor": "#009688"
+    "labelColor": "#2196F3"
   }
 ]
