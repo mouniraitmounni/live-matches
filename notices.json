@@ -26,15 +26,13 @@
     "target": "myaccount",
     "time": "2025-05-21T14:00:00"
   },
-{
+  {
   "id": "n01",
   "title": "تحديث حول إصابة مبابي",
   "message": "مبابي قد يعود قريباً...",
   "type": "news",
   "action": "open_news",
-  "target": "news_123"  // ← هذا هو newsId الحقيقي من news.json
+  "target": "news_123"  
   "time": "2025-05-21T14:00:00"
 }
-  
-
 ]
