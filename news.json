@@ -7,6 +7,8 @@
     "date": "23 أبريل",
     "label": "جديدة",
     "labelColor": "#3A3A3C"
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+
   },
   {
     "id": "2",
@@ -25,6 +27,8 @@
     "date": "أمس",
     "label": "مباريات مضافة",
     "labelColor": "#3A3A3C"
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+
   },
   {
     "id": "4",
@@ -34,6 +38,8 @@
     "date": "22 أبريل",
     "label": "قمة نارية",
     "labelColor": "#FF6B00"
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+
   },
   {
     "id": "5",
@@ -43,6 +49,7 @@
     "date": "21 أبريل",
     "label": "تصريح",
     "labelColor": "#3A3A3C"
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
   },
   {
     "id": "6",
@@ -52,6 +59,7 @@
     "date": "21 أبريل",
     "label": "عاجل",
     "labelColor": "#D00000"
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
   },
   {
     "id": "7",
@@ -72,6 +80,7 @@
     "date": "20 أبريل",
     "label": "رسمي",
     "labelColor": "#3A3A3C"
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
   },
   {
     "id": "9",
@@ -81,6 +90,7 @@
     "date": "19 أبريل",
     "label": "تقارير",
     "labelColor": "#3A3A3C"
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
   },
   {
     "id": "10",
@@ -90,6 +100,7 @@
     "date": "19 أبريل",
     "label": "تعثر",
     "labelColor": "#3A3A3C"
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
   }
 ]
 
