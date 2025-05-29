@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "تحديث جديد حول إصابة مبابي",
-    "description": "أعلن ريال مدريد، ثاني الدوري الإسباني لكرة القدم، الأربعاء، إصابة مهاجمه الدولي الفرنسي كيليان مبابي في فخذه الأيسر خلال مباراة ديبورتيفو ألافيس (3-2)، الثلاثاء، في المرحلة السابعة.",
+    "description": "أعلن ريال مدريد، ثاني الدوري الإسباني، إصابة مبابي في فخذه خلال مباراة ديبورتيفو ألافيس.",
     "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
     "date": "23 أبريل",
     "label": "إصابات",
@@ -12,7 +12,7 @@
   {
     "id": "2",
     "title": "قناة رياضية جديدة تنطلق اليوم",
-    "description": "أطلقت SPORTS TV قناة رياضية جديدة تبث بجودة عالية وتغطي أبرز البطولات الأوروبية والعربية.",
+    "description": "أطلقت SPORTS TV قناة رياضية جديدة بجودة عالية تغطي البطولات الأوروبية والعربية.",
     "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
     "date": "اليوم",
     "label": "جديدة",
@@ -28,23 +28,21 @@
     "label": "مباريات مضافة",
     "labelColor": "#3A3A3C",
     "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
-
   },
   {
     "id": "4",
     "title": "موعد مواجهة مانشستر سيتي وريال مدريد",
-    "description": "تحدد رسمياً موعد لقاء نصف نهائي دوري الأبطال بين مانشستر سيتي وريال مدريد في ملعب الهاماني.",
+    "description": "تحدد موعد لقاء نصف نهائي دوري الأبطال بين مانشستر سيتي وريال مدريد.",
     "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
     "date": "22 أبريل",
     "label": "قمة نارية",
     "labelColor": "#FF6B00",
     "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
-
   },
   {
     "id": "5",
     "title": "تصريحات مثيرة لأنشيلوتي قبل الكلاسيكو",
-    "description": "قال أنشيلوتي: الكلاسيكو سيكون معركة تكتيكية، ونحن جاهزون للرد في الميدان.",
+    "description": "قال أنشيلوتي: الكلاسيكو سيكون معركة تكتيكية ونحن جاهزون للرد في الميدان.",
     "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
     "date": "21 أبريل",
     "label": "تصريح",
@@ -54,7 +52,7 @@
   {
     "id": "6",
     "title": "إصابة مفاجئة لنجم برشلونة",
-    "description": "تعرض اللاعب الشاب لإصابة في التدريبات، وسيخضع لفحوصات لتحديد مدة الغياب.",
+    "description": "تعرض اللاعب الشاب لإصابة وسيخضع لفحوصات لتحديد مدة الغياب.",
     "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
     "date": "21 أبريل",
     "label": "عاجل",
@@ -64,18 +62,17 @@
   {
     "id": "7",
     "title": "النصر السعودي يتأهل لنهائي كأس الملك",
-    "description": "حقق نادي النصر السعودي فوزاً مثيراً وصعد إلى نهائي كأس الملك بعد أداء رائع.",
+    "description": "حقق النصر السعودي فوزاً رائعاً وصعد إلى نهائي كأس الملك.",
     "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
     "date": "20 أبريل",
     "label": "نهائي",
     "labelColor": "#0066FF",
     "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
-
   },
   {
     "id": "8",
     "title": "مبابي يوجه رسالة لجماهير ريال مدريد",
-    "description": "طمأن كيليان مبابي جماهير ريال مدريد قائلاً إنه سيعود قريباً أقوى من السابق.",
+    "description": "طمأن كيليان مبابي جماهير ريال مدريد وقال إنه سيعود قريباً.",
     "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
     "date": "20 أبريل",
     "label": "رسمي",
@@ -85,7 +82,7 @@
   {
     "id": "9",
     "title": "تقارير: زيدان يقترب من العودة للتدريب",
-    "description": "أكدت مصادر صحفية أن زين الدين زيدان يجري مفاوضات جادة للعودة إلى التدريب قريباً.",
+    "description": "أكدت مصادر أن زيدان يجري مفاوضات جادة للعودة للتدريب.",
     "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
     "date": "19 أبريل",
     "label": "تقارير",
@@ -95,12 +92,114 @@
   {
     "id": "10",
     "title": "بايرن ميونخ يتعثر في الدوري الألماني",
-    "description": "تعادل بايرن ميونخ أمام لايبزيج في مباراة شهدت إثارة كبيرة وضياع العديد من الفرص.",
+    "description": "تعادل بايرن أمام لايبزيج في مباراة مثيرة شهدت ضياع فرص عديدة.",
     "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
     "date": "19 أبريل",
     "label": "تعثر",
     "labelColor": "#3A3A3C",
     "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+  },
+
+  // ✅ أخبار مضافة
+
+  {
+    "id": "11",
+    "title": "انتقال حكيمي إلى مانشستر سيتي",
+    "description": "أكدت مصادر قريبة أن صفقة انتقال حكيمي تقترب من الحسم.",
+    "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
+    "date": "28 مايو",
+    "label": "انتقالات",
+    "labelColor": "#0288D1",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+  },
+  {
+    "id": "12",
+    "title": "عودة الجماهير إلى الملاعب المغربية",
+    "description": "أعلنت الجامعة المغربية السماح بعودة الجماهير بنسبة 75%.",
+    "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
+    "date": "27 مايو",
+    "label": "رسمي",
+    "labelColor": "#4CAF50",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+  },
+  {
+    "id": "13",
+    "title": "تألق محمد صلاح في نصف النهائي",
+    "description": "سجل محمد صلاح هدفين وصنع هدفاً في مباراة نصف النهائي.",
+    "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
+    "date": "26 مايو",
+    "label": "نتائج",
+    "labelColor": "#9C27B0",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+  },
+  {
+    "id": "14",
+    "title": "نهائي دوري الأبطال بين السيتي والبايرن",
+    "description": "مواجهة نارية مرتقبة في نهائي الأبطال هذا الأسبوع.",
+    "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
+    "date": "25 مايو",
+    "label": "قمة نارية",
+    "labelColor": "#FF6B00",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+  },
+  {
+    "id": "15",
+    "title": "الرجاء يستعد لموسم الانتقالات الصيفية",
+    "description": "يضع نادي الرجاء قائمة بأسماء اللاعبين المطلوبين.",
+    "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
+    "date": "25 مايو",
+    "label": "انتقالات",
+    "labelColor": "#0288D1",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+  },
+  {
+    "id": "16",
+    "title": "إصابة مزمنة تهدد نجم الوداد",
+    "description": "أفادت تقارير أن اللاعب يعاني من إصابة مزمنة في الركبة.",
+    "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
+    "date": "24 مايو",
+    "label": "إصابات",
+    "labelColor": "#F44336",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+  },
+  {
+    "id": "17",
+    "title": "المغرب يستضيف بطولة كأس العرب للشباب",
+    "description": "البطولة ستقام بمشاركة 16 منتخباً بداية من يونيو.",
+    "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
+    "date": "24 مايو",
+    "label": "جديدة",
+    "labelColor": "#009688",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+  },
+  {
+    "id": "18",
+    "title": "مفاجأة في قائمة الفيفا لأفضل لاعبين",
+    "description": "شهدت القائمة غياب بعض الأسماء البارزة وسط جدل واسع.",
+    "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
+    "date": "23 مايو",
+    "label": "تقارير",
+    "labelColor": "#607D8B",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+  },
+  {
+    "id": "19",
+    "title": "نقل مباراة الكلاسيكو إلى ملعب طنجة",
+    "description": "نظراً لأعمال الصيانة، تم نقل المباراة المرتقبة إلى طنجة.",
+    "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
+    "date": "22 مايو",
+    "label": "رسمي",
+    "labelColor": "#4CAF50",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+  },
+  {
+    "id": "20",
+    "title": "بوفون يعلن اعتزاله الدولي بشكل نهائي",
+    "description": "الحارس الإيطالي الأسطوري يقرر إنهاء مسيرته الدولية.",
+    "image": "https://i.postimg.cc/Hsgw0VKc/images-2.jpg",
+    "date": "22 مايو",
+    "label": "اعتزال",
+    "labelColor": "#FF5722",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
   }
 ]
-
