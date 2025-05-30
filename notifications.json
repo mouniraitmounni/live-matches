@@ -6,7 +6,8 @@
     "target": "1",
     "type": "announcement",
     "status": "جديد",
-    "dateTime": "2025-05-30T10:15:00"
+    "dateTime": "2025-05-30T10:15:00",
+    "isFavorite": false
   },
   {
     "id": "2",
@@ -15,6 +16,17 @@
     "target": "5",
     "type": "ranking",
     "status": "",
-    "dateTime": "2025-05-29T22:40:00"
+    "dateTime": "2025-05-29T22:40:00",
+    "isFavorite": true
+  },
+  {
+    "id": "3",
+    "title": "⚽ موعد مباراة ريال مدريد القادمة",
+    "body": "...مواجهة قوية لريال مدريد الأسبوع المقبل",
+    "target": "9",
+    "type": "match",
+    "status": "",
+    "dateTime": "2025-05-31T18:00:00",
+    "isFavorite": false
   }
 ]
