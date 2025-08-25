@@ -3,91 +3,13 @@
   {
     "team1": "الوداد",
     "team2": "الرجاء",
-    "time": "2025-05-10 12:30:00",
+    "time": "2025-08-25 11:44:00",
     "channel": "الرياضية",
     "commentator": "هشام فرج",
     "logo1": "https://i.postimg.cc/Jz7Y2Zr4/Raja-Casablanca-Logo.png",
     "logo2": "https://i.postimg.cc/Jz7Y2Zr4/Raja-Casablanca-Logo.png",
-    "liveUrl": "http://myrbunq.smart-tv.xyz:80/live/3133480476/6975838018/61.m3u8"
-  },
-  {
-    "team1": "برشلونة",
-    "team2": "ريال مدريد",
-    "time": "2025-05-05 17:00:00",
-    "channel": "Bein Sports 1",
-    "commentator": "عصام الشوالي",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "liveUrl": "https://yourstreamlink.com/barca-vs-real"
-  },
-  {
-    "team1": "مانشستر سيتي",
-    "team2": "ليفربول",
-    "time": "2025-04-20 18:45:00",
-    "channel": "Bein Sports 2",
-    "commentator": "رؤوف خليف",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
-    "liveUrl": "https://yourstreamlink.com/city-vs-liverpool"
-  },
-  {
-    "team1": "برشلونة",
-    "team2": "ريال مدريد",
-    "time": "2025-04-19 22:00:00",
-    "channel": "Bein Sports 1",
-    "commentator": "عصام الشوالي",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "liveUrl": "https://yourstreamlink.com/barca-vs-real"
-  },
-  {
-    "team1": "مانشستر سيتي",
-    "team2": "ليفربول",
-    "time": "2025-04-20 18:45:00",
-    "channel": "Bein Sports 2",
-    "commentator": "رؤوف خليف",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
-    "liveUrl": "https://yourstreamlink.com/city-vs-liverpool"
-  },
-  {
-    "team1": "برشلونة",
-    "team2": "ريال مدريد",
-    "time": "2025-04-19 22:00:00",
-    "channel": "Bein Sports 1",
-    "commentator": "عصام الشوالي",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "liveUrl": "https://yourstreamlink.com/barca-vs-real"
-  },
-  {
-    "team1": "مانشستر سيتي",
-    "team2": "ليفربول",
-    "time": "2025-04-20 18:45:00",
-    "channel": "Bein Sports 2",
-    "commentator": "رؤوف خليف",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
-    "liveUrl": "https://yourstreamlink.com/city-vs-liverpool"
-  },
-  {
-    "team1": "برشلونة",
-    "team2": "ريال مدريد",
-    "time": "2025-04-19 22:00:00",
-    "channel": "Bein Sports 1",
-    "commentator": "عصام الشوالي",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "liveUrl": "https://yourstreamlink.com/barca-vs-real"
-  },
-  {
-    "team1": "مانشستر سيتي",
-    "team2": "ليفربول",
-    "time": "2025-04-20 18:45:00",
-    "channel": "Bein Sports 2",
-    "commentator": "رؤوف خليف",
-    "logo1": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-    "logo2": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
-    "liveUrl": "https://yourstreamlink.com/city-vs-liverpool"
-   }
+    "liveUrl": "
+https://scontent.fcmn5-1.fna.fbcdn.net/hvideo-pnb-prn/_nc_cat-111/_nc_sr_t-4/v/rASe44hLpoWFfwcAqiB4gsOucsmYLY5bQs2dA7GUx3ZXZGg/_nc_ohc-yEjEvQLr_bgQ7kNvwFdjqBn/live-dash/dash-abr-ibr-audio/763548103238245_0.mpd?_nc_eui2=AeH_1izYEYbWPoHTCgtpvYH60012QtviUvHTTXZC2-JS8WYhcRPo0vGxP87ZpwKORDr8DEe7yxk3LwKMURL89IXa&_nc_zt=28&ccb=2-4&lvp=1&ms=m_CN&p_bd=c4qKLFbXwxu4z4J4Sxth&sc_t=1&oh=00_AfVXhiUv3wyjEp-Nc4bMRWPKP83fHC9uCSz2fIlqVQmCTQ&oe=68AE2F12"
+  }
+
 ]
