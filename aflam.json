@@ -15,19 +15,19 @@
         "label": "1080p",
         "size": "1.6 GB",
         "watch": "https://example.com/watch1080",
-        "download": "https://www.mediafire.com/file/u8283w21rd8l7ux/قريبا++تطبيق+live+zone+لنقل+المباريات.mp4/file"
+        "download": "https://www.youtube.com/watch?v=3lMbyv1pSuc"
       },
       {
         "label": "720p",
         "size": "1.0 GB",
         "watch": "https://example.com/watch720",
-        "download": "https://www.mediafire.com/file/u8283w21rd8l7ux/قريبا++تطبيق+live+zone+لنقل+المباريات.mp4/file"
+        "download": "https://www.youtube.com/watch?v=3lMbyv1pSuc"
       },
       {
         "label": "480p",
         "size": "638 MB",
         "watch": "https://example.com/watch480",
-        "download": "https://www.mediafire.com/file/u8283w21rd8l7ux/قريبا++تطبيق+live+zone+لنقل+المباريات.mp4/file"
+        "download": "https://www.youtube.com/watch?v=3lMbyv1pSuc"
       }
     ]
   },
