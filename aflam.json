@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Avatar: The Way of Water",
+    "poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "description": "فيلم خيال علمي ومغامرة من عالم أفاتار.",
+    "videoUrl": "https://example.com/avatar.mp4"
+  },
+  {
+    "title": "La Casa de Papel",
+    "poster": "https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+    "description": "مسلسل إسباني شهير عن سرقة البنوك.",
+    "videoUrl": "https://example.com/lacasadepapel.mp4"
+  },
+  {
+    "title": "John Wick 4",
+    "poster": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+    "description": "أحدث أجزاء فيلم الأكشن جون ويك.",
+    "videoUrl": "https://example.com/johnwick.mp4"
+  }
+]
