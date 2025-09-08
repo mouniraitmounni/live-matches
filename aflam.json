@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "title": "Terrifier 2",
     "poster": "https://image.tmdb.org/t/p/w500/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg",
     "year": "2022",
@@ -22,16 +23,11 @@
         "size": "1.0 GB",
         "watch": "https://example.com/watch720",
         "download": "https://www.youtube.com/watch?v=3lMbyv1pSuc"
-      },
-      {
-        "label": "480p",
-        "size": "638 MB",
-        "watch": "https://example.com/watch480",
-        "download": "https://www.youtube.com/watch?v=3lMbyv1pSuc"
       }
     ]
   },
   {
+    "id": "2",
     "title": "On The Rocks",
     "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/h7SaZsd7E3t4c2IEyCOu1gj4DXf.jpg",
     "year": "2020",
